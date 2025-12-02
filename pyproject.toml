@@ -5,6 +5,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pycryptodome>=3.23.0",
+    "sqlcipher3-binary>=0.5.4",
 ]
 
 [tool.ruff.format]
